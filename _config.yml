@@ -1,3 +1,15 @@
+title: Οδηγίες Χρήσης
+logo: /assets/img/logo.png
+description: Οδηγίες χρήσης για τα γεωχωρικά συστήματα του Δήμου Σύμης.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-title: Symi manual
-description: Manual page for Symi
+
+# Project configuration
+projects:
+  - dir: geoportal
+    name: Σύστημα Διαχείρησης Υποδομών
+  - dir: gis
+    name: Υποδομή Γεωγραφικών Πληροφοριών
+  - dir: assets_complaints
+    name: Σύστημα Καταγραφής Παγίων και Υποστήριξης Δημοτών
